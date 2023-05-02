@@ -1,5 +1,5 @@
 const Form = () => {
-  return <div>Form</div>;
+  return <div className="bg-white w-[600px] h-[800px] shadow-lg">Form</div>;
 };
 
 export default Form;

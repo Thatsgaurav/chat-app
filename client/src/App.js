@@ -3,7 +3,7 @@ import Form from "./modules/Form";
 
 function App() {
   return (
-    <div className="bg-[#edf3fc] h-screen">
+    <div className="bg-[#e1edff] h-screen">
       <Form />
     </div>
   );
