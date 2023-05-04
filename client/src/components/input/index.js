@@ -10,6 +10,7 @@ const Input = () => {
     >
       {}
     </label>
+    <input></input>
   </div>;
 };
 
